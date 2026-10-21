@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="kita-jarvis">
+  <title>kita-jarvis</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  <radialGradient id="o" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="600" height="300" rx="14"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="600" height="300" fill="url(#g)"/><circle cx="560" cy="30" r="150" fill="url(#o)"/>
+  <rect width="600" height="4" fill="#a78bfa"/></g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="14" fill="none" stroke="#30363d"/>
+  <text x="32" y="62" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" fill="#a78bfa">github.com/HurbetAlex</text>
+  <text x="32" y="96" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="700" fill="#e6edf3">kita-jarvis</text>
+  <text x="32" y="130" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="17" fill="#8b949e">Personal agent daemon with approval gates,</text><text x="32" y="156" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="17" fill="#8b949e">audit log and cost budgets.</text>
+  <rect x="32" y="228" width="116" height="30" rx="15" fill="#21262d" stroke="#30363d"/><text x="90" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" fill="#e6edf3">Python 3.12</text><rect x="156" y="228" width="158" height="30" rx="15" fill="#21262d" stroke="#30363d"/><text x="236" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" fill="#e6edf3">Claude Agent SDK</text><rect x="323" y="228" width="49" height="30" rx="15" fill="#21262d" stroke="#30363d"/><text x="347" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" fill="#e6edf3">MCP</text><rect x="380" y="228" width="83" height="30" rx="15" fill="#21262d" stroke="#30363d"/><text x="421" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" fill="#e6edf3">systemd</text>
+</svg>
