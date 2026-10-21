@@ -12,16 +12,8 @@ Based in Antalya, Türkiye · Ukraine. Open to remote work and relocation.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/HurbetAlex/kita-jarvis"><img src="assets/cards/kita-jarvis.svg" alt="kita-jarvis" width="100%"></a></td>
     <td width="50%"><a href="https://github.com/HurbetAlex/mcp-approval-gate"><img src="assets/cards/mcp-approval-gate.svg" alt="mcp-approval-gate" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/HurbetAlex/fastapi-rag-service"><img src="assets/cards/fastapi-rag-service.svg" alt="fastapi-rag-service" width="100%"></a></td>
     <td width="50%"><a href="https://github.com/HurbetAlex/n8n-workflow-lint"><img src="assets/cards/n8n-workflow-lint.svg" alt="n8n-workflow-lint" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/HurbetAlex/mail-telegram-gateway"><img src="assets/cards/mail-telegram-gateway.svg" alt="mail-telegram-gateway" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/HurbetAlex/crypto-arbitrage-bot"><img src="assets/cards/crypto-arbitrage-bot.svg" alt="crypto-arbitrage-bot" width="100%"></a></td>
   </tr>
 </table>
 
