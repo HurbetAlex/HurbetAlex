@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Oleksandr Matiushenko, AI Engineer and Python Backend Developer</title>
+  <desc id="d">Agentic systems, LLM integrations, production backends</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <radialGradient id="v" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.55"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <radialGradient id="c" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.5"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8b949e" fill-opacity="0.22"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="320" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#dots)"/>
+    <circle cx="1020" cy="150" r="230" fill="url(#v)">
+      <animate attributeName="r" values="220;245;220" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1130" cy="210" r="170" fill="url(#c)">
+      <animate attributeName="r" values="170;150;170" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke="#e6edf3" stroke-opacity="0.28" stroke-width="1.2" fill="none">
+      <path d="M960 90 L1040 150 L1130 110 L1200 190 L1110 240 L1040 150 M1110 240 L980 230 L1040 150"/>
+    </g>
+    <g fill="#0d1117" stroke-width="2">
+      <circle cx="1040" cy="150" r="9" stroke="#a78bfa"><animate attributeName="r" values="9;12;9" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="90" r="6" stroke="#38bdf8"/>
+      <circle cx="1130" cy="110" r="7" stroke="#38bdf8"/>
+      <circle cx="1200" cy="190" r="6" stroke="#a78bfa"/>
+      <circle cx="1110" cy="240" r="8" stroke="#34d399"><animate attributeName="r" values="8;10;8" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="230" r="6" stroke="#a78bfa"/>
+    </g>
+    <rect x="72" y="70" width="4" height="150" rx="2" fill="url(#tx)"/>
+    <text x="96" y="104" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="22" fill="#8b949e" letter-spacing="1">OLEKSANDR MATIUSHENKO</text>
+    <text x="94" y="162" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="52" font-weight="700" fill="#e6edf3">AI Engineer</text>
+    <text x="94" y="218" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="52" font-weight="700" fill="url(#tx)">Python Backend Developer</text>
+    <text x="96" y="264" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="18" fill="#8b949e">agentic systems · LLM integrations · production backends</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#30363d"/>
+</svg>
