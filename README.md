@@ -6,7 +6,7 @@ I build agentic systems and the Python backends around them. My agents ask befor
 
 Based in Antalya, Türkiye · Ukraine. Open to remote work and relocation.
 
-[Email](mailto:alexhurbet@icloud.com) · [LinkedIn](https://www.linkedin.com/in/%3Chandle%3E) · [CV](https://github.com/HurbetAlex/HurbetAlex/blob/main/CV.pdf)
+[Email](mailto:alexhurbet@icloud.com) · [LinkedIn](https://www.linkedin.com/in/alexhurbet) · [CV](https://github.com/HurbetAlex/HurbetAlex/blob/main/CV.pdf)
 
 ## Featured projects
 
