@@ -4,7 +4,7 @@
 
 I build agentic systems and the Python backends around them. My agents ask before they act, write an audit log and stop at a cost budget. I take projects from prototype to something that runs on a server, with tests.
 
-Based in Antalya, Türkiye. Open to remote work and relocation.
+Based in Antalya, Türkiye · Ukraine. Open to remote work and relocation.
 
 [Email](mailto:alexhurbet@icloud.com) · [LinkedIn](https://www.linkedin.com/in/%3Chandle%3E) · [CV](https://github.com/HurbetAlex/HurbetAlex/blob/main/CV.pdf)
 
@@ -20,8 +20,8 @@ Based in Antalya, Türkiye. Open to remote work and relocation.
     <td width="50%"><a href="https://github.com/HurbetAlex/n8n-workflow-lint"><img src="assets/cards/n8n-workflow-lint.svg" alt="n8n-workflow-lint" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/HurbetAlex/foodbot"><img src="assets/cards/foodbot.svg" alt="foodbot" width="100%"></a></td>
     <td width="50%"><a href="https://github.com/HurbetAlex/mail-telegram-gateway"><img src="assets/cards/mail-telegram-gateway.svg" alt="mail-telegram-gateway" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/HurbetAlex/crypto-arbitrage-bot"><img src="assets/cards/crypto-arbitrage-bot.svg" alt="crypto-arbitrage-bot" width="100%"></a></td>
   </tr>
 </table>
 
