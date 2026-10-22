@@ -10,6 +10,8 @@ Based in Antalya, Türkiye · Ukraine. Open to remote work and relocation.
 
 ## Featured projects
 
+<p><a href="https://github.com/HurbetAlex/kita-messenger"><img src="assets/cards/kita-messenger.png" alt="Kita Messenger: E2E-encrypted chats, calls and a permission-scoped AI assistant (product showcase)" width="100%"></a></p>
+
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/HurbetAlex/kita-jarvis"><img src="assets/cards/kita-jarvis.svg" alt="kita-jarvis" width="100%"></a></td>
